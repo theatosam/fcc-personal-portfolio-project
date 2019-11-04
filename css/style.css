@@ -62,7 +62,7 @@ img {
   margin-bottom: 40px;
 }
 
-#navbar {
+/*#navbar {
   display: grid;
   justify-content: end;
   background-color: #191970;
@@ -71,10 +71,23 @@ img {
   top: 0;
   width: 100%;
   height: 20vh;
+}*/
+
+header {
+  display: flex;
+  background-color: #191970;
+  color: #ffffff;
+  justify-content: flex-end;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 20vh;
+}
+
+.nav-links li {
+  list-style: none;
 }
 
 a[href^="#"] {
   text-decoration: none;
-  color: #ffffff;
-  margin: 10px;
 }
