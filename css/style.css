@@ -84,10 +84,22 @@ header {
   height: 20vh;
 }
 
-.nav-links li {
+.nav-links {
   list-style: none;
 }
 
-a[href^="#"] {
+.nav-links li {
+  display: inline-block;
+  padding: 20px 0;
+}
+
+.nav-links li a {
   text-decoration: none;
+  color: #ffffff;
+  padding: 7vh 20px;
+  transform: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover {
+  background-color: #1D4200;
 }
