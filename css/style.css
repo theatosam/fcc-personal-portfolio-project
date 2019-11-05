@@ -87,6 +87,7 @@ header {
 .nav-links {
   list-style: none;
   margin: 7.5px 20px;
+  font-size: 135%;
 }
 
 .nav-links li {
