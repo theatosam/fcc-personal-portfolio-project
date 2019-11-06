@@ -49,6 +49,7 @@ h1 {
 
 .grid {
   display: grid;
+  margin-top: 60px;
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 40px;
 }
