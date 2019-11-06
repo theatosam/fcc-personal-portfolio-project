@@ -65,17 +65,6 @@ img {
   margin-bottom: 40px;
 }
 
-/*#navbar {
-  display: grid;
-  justify-content: end;
-  background-color: #191970;
-  color: #ffffff;
-  position: sticky;
-  top: 0;
-  width: 100%;
-  height: 20vh;
-}*/
-
 header {
   display: flex;
   background-color: #191970;
