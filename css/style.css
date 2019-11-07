@@ -82,6 +82,10 @@ img {
   font-size: 120%;
 }
 
+.grid a:link {
+  text-decoration: none !important;
+} 
+
 header {
   display: flex;
   background-color: #191970;
