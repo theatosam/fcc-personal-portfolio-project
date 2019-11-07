@@ -79,6 +79,7 @@ img {
 .image-text p {           
   font-family: inherit;
   color: #fff;
+  font-size: 120%;
 }
 
 header {
