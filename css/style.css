@@ -76,6 +76,11 @@ img {
   margin-bottom: 40px;
 }
 
+.image-text p {           
+  font-family: inherit;
+  color: #fff;
+}
+
 header {
   display: flex;
   background-color: #191970;
