@@ -79,6 +79,8 @@ img {
 .project-tile p {           
   font-family: inherit;
   color: #fff;
+  background-color: #333;
+  padding: 25px 0;
   font-size: 120%;
 }
 
