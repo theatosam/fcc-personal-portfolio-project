@@ -26,11 +26,7 @@ h1, h2 {
 
 h1 {
   margin-top: 150px;
-}
-
-#welcome-section h1 {
   font-size: 400%;
-  margin-bottom: 10px;
 }
 
 #welcome-section p {
