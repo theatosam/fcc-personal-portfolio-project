@@ -156,3 +156,13 @@ h2 {
 .icons:hover {
   transform: translateY(10px);
 }
+
+footer {
+  background-color: black;
+  color: #fff;
+  display: flex;
+  width: 100%;
+  height: auto;
+  margin-top: 3px;
+  padding: 30px 30px 40px 30px;
+}
