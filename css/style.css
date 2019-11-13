@@ -166,3 +166,15 @@ footer {
   margin-top: 3px;
   padding: 30px 30px 40px 30px;
 }
+
+.textA {
+  width: 70%;
+}
+
+.textA span {
+  font-style: italic;
+}
+
+.textB {
+  width: 30%;
+}
