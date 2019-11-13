@@ -126,3 +126,10 @@ h2 {
   text-align: center;
   padding-bottom: 100px;
 }
+
+#contact p {
+  color: #fff;
+  padding-top: 10px;
+  font-size: 120%;
+  font-style: italic;
+}
