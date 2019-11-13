@@ -85,6 +85,7 @@ header {
   display: flex;
   background-color: #191970;
   color: #ffffff;
+  align-items: center;
   justify-content: flex-end;
   position: sticky;
   top: 0;
