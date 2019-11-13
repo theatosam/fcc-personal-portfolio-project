@@ -133,3 +133,22 @@ h2 {
   font-size: 120%;
   font-style: italic;
 }
+
+.contact-icons {
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 32px;
+  margin-top: 50px;
+  padding: 0 10px;
+}
+
+.icons {
+  padding: 0 20px;
+  cursor: pointer;
+  transition: transform 0.3s ease 0s;
+}
+
+.icons:hover {
+  transform: translateY(10px);
+}
