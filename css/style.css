@@ -185,3 +185,47 @@ footer {
 .textB {
   width: 30%;
 }
+
+@media only screen and (max-width: 600px) {
+  .nav-links li a {
+    padding-bottom: 5.5vh;
+  }
+  
+  #welcome-section h1 {
+    line-height: 1.6em;
+    font-size: 400%;
+  }
+  
+  #welcome-section p {
+    font-size: 200%;
+    color: #FFA500;
+  }
+  
+  #projects {
+    padding: 45px 20px;
+  }
+  
+  .grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .project-tile {
+    margin: 0 0 40px 0;
+  }
+  
+  footer {
+    flex-direction: column;
+  }
+  
+  .textA, .textB {
+    width: 100%;
+    height: auto;
+  }
+  
+  .textB {
+    padding-top: 40px;
+  }
+  
+}
