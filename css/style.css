@@ -160,6 +160,11 @@ h2 {
   color: #ffffff;
 }
 
+.icons a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 .icons:hover {
   transform: translateY(10px);
 }
